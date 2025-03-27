@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your **Expense Tracker** project, including the recommendation to use **XAMPP or WAMP** for local development.  
-
----
-
 ### **📌 README.md - Expense Tracker**  
 
 ```md
